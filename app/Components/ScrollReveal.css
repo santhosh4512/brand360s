@@ -1,0 +1,14 @@
+.scroll-reveal {
+  margin: 0 auto;
+}
+
+.scroll-reveal-text {
+  line-height: 1.6;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+
+.word {
+  display: inline-block;
+  will-change: opacity, filter, transform;
+}
